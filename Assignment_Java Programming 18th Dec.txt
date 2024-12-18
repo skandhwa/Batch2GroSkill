@@ -1,0 +1,44 @@
+1> WAP in Java to take input as array and right rotate the elements 3 times
+2>WAP in Java to take an array and reverse all the elements of array
+3>WAP in Java to find the Sum of all even elements in array
+4>WAP in Java to remove duplicate elements from array
+5>WAP in Java to find product of two 3*3 matrix
+6> To find the total number of vowels and consonant in string
+7> WAP to find the sum of all integer elements from string 
+8>Check that whether one string is a rotation of another string
+9>Find the duplicate words from a string
+10>Reverse a string word by word 
+
+
+
+ 11>  abcDEF@1234cfghi   
+
+Remove all white spaces
+Then convert this to upper case
+then split the string on basis of @
+
+check in this string a is present or not if present find the index of a
+then convert this string to lowercase and reverse this string(without using direct method)
+and then check whether palindrome or not
+
+12>WAP  to find the element that appears only once in an array.
+
+13> WAP in Java to check whether two strings are panagram
+
+14>WAP in Java 
+Create a Class named Shape with length as instance variable  , create three methods as square , rectangle , circle 
+and find out their respective areas 
+Create a object in main method and call these different methods with the instance of object 
+
+15>WAP in Java 
+Create a class named school ,create name as their instance variables 
+Create a default constructor of this class which will have a print statement to display the name of school 
+Create a method inside the class which will display a message as "This School is based out of Kolkata"
+Create a object under main method and call the constructor and the method 
+
+
+16>WAP in Java to create a class named school 
+create name, address,strength as their instance variables 
+Create two constructor one with two variables and one with all the three variables 
+Create a method that will display all the three parameters 
+create two object of this class and call the respective methods 
